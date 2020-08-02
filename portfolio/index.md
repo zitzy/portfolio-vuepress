@@ -1,7 +1,6 @@
 ---
 works_index: true
-hero_text: Ahoj som Ing. Eugen Frajt a za nedlho mi môj šikovný syn z tohto spraví
-  stránku o mne.
+hero_text: Posúvame možnosti vždy o krok ďalej.
 title: Hero
 
 ---
