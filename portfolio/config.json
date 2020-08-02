@@ -15,7 +15,7 @@
       "text": "Kontakt",
       "link": "<a href=\"mailto:eugen.frajt@techconsult.tech\">Send mail</a>",
       "position": "right",
-      "external": true
+      "external": false
     },
     {
       "text": "Journal",
