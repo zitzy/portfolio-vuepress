@@ -13,7 +13,7 @@
     },
     {
       "text": "Kontakt",
-      "link": "<a href=\"mailto:eugen.frajt@techconsult.tech\"> Kontakt </a>",
+      "link": "mailto: eugen.frajt@techconsult.tech",
       "position": "right",
       "external": true
     },
