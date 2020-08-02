@@ -15,7 +15,7 @@
       "text": "Kontakt",
       "link": "mailto:eugen.frajt@techconsult.tech",
       "position": "right",
-      "external": false
+      "external": true
     },
     {
       "text": "Journal",
