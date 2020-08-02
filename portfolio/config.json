@@ -1,9 +1,9 @@
 {
   "title": "Techconsult",
   "description": "Konzultacie na mieru",
-  "logo": "/upload/logo.svg",
+  "logo": "/upload/favicon.ico",
   "footer": "Ⓒ Techconsult eugen.frajt@techconsult.tech",
-  "favicon": "favicon-32x32.png",
+  "favicon": "/upload/favicon.ico",
   "navigation": [
     {
       "text": "Works",
