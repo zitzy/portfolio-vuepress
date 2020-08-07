@@ -1,6 +1,6 @@
 ---
 works_index: true
-hero_text: Posúvame možnosti vždy o krok ďalej.
+hero_text: <img src="/upload/screenshot-from-2020-08-07-12-24-10.png">
 title: Hero
 
 ---
