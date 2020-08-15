@@ -18,8 +18,8 @@
       "external": true
     },
     {
-      "text": "Journal",
-      "link": "/journal/",
+      "text": "O mne",
+      "link": "/omne/",
       "position": "right",
       "external": false
     }
