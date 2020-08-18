@@ -5,17 +5,6 @@
   "footer": "Ⓒ Techconsult eugen.frajt@techconsult.tech",
   "favicon": "/upload/android-chrome-192x192.png",
   "navigation": [
-    {
-      "text": "Pracovné skúsenosti",
-      "link": "",
-      "position": "left",
-      "external": true
-    },
-    {
-      "text": "Kontakt",
-      "link": "mailto:eugen.frajt@techconsult.tech",
-      "position": "right",
-      "external": true
-    }
+
   ]
 }
