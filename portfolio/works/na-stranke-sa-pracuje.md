@@ -1,7 +1,7 @@
 ---
 title: Pracovné skúsenosti
 thumbnail: "/upload/profil.jpg"
-description: Na stránke sa pracuje
+description: Pracovné skúsenosti
 categories: []
 year: 2020
 date: 
