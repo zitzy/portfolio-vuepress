@@ -6,6 +6,12 @@
   "favicon": "/upload/android-chrome-192x192.png",
   "navigation": [
     {
+      "text": "Pracovné skúsenosti",
+      "link": "",
+      "position": "left",
+      "external": true
+    },
+    {
       "text": "",
       "link": "",
       "position": "",
