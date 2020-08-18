@@ -35,5 +35,4 @@ fields:
   config:
     required: true
 pages:
-- portfolio/works/Pracovné skúsenosti/1987-1993.md
 - portfolio/works/Pracovné skúsenosti/2004-2012.md
