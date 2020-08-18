@@ -6,22 +6,16 @@
   "favicon": "/upload/android-chrome-192x192.png",
   "navigation": [
     {
-      "text": "Významné referencie",
-      "link": "/",
+      "text": "Pracovné skúsenosti",
+      "link": "",
       "position": "left",
-      "external": false
+      "external": true
     },
     {
       "text": "Kontakt",
       "link": "mailto:eugen.frajt@techconsult.tech",
       "position": "right",
       "external": true
-    },
-    {
-      "text": "O mne",
-      "link": "/journal/",
-      "position": "right",
-      "external": false
     }
   ]
 }
