@@ -5,6 +5,11 @@
   "footer": "Ⓒ Techconsult eugen.frajt@techconsult.tech",
   "favicon": "/upload/android-chrome-192x192.png",
   "navigation": [
-
+    {
+      "text": "",
+      "link": "",
+      "position": "",
+      "external": false
+    }
   ]
 }
