@@ -19,5 +19,3 @@ fields:
   type: datetime
   config:
     required: true
-pages:
-- portfolio/journal/na-stranke-sa-pracuje.md
