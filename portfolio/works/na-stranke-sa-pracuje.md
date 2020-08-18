@@ -1,6 +1,6 @@
 ---
-title: Na stránke sa pracuje
-thumbnail: "/upload/pracovne-skusenosti.pdf"
+title: Pracovné skúsenosti
+thumbnail: "/upload/profil.jpg"
 description: Na stránke sa pracuje
 categories: []
 year: 2020
