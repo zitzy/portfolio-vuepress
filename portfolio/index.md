@@ -1,6 +1,6 @@
 ---
 works_index: true
-hero_text: <img src="/upload/tct2508.jpg"><img src="/upload/prsk-2508.jpg">
+hero_text: <img src="/upload/tct10092020.jpg"><img src="/upload/prsk-2508.jpg">
 title: Hero
 
 ---
